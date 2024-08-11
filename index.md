@@ -8,3 +8,7 @@ Mejorando readme
 ```java
 public int myVar = 0
 ```
+
+- [ ] Opción 1
+- [ ] Opción 2
+- [ ] Opción 3
